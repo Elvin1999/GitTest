@@ -4,3 +4,7 @@
 struct Database {
 	char* connectionString;
 };
+
+struct Test {
+
+};

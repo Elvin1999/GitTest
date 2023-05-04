@@ -7,7 +7,6 @@ struct Teacher {
 };
 
 
-
 void main() {
 
 	cout << "How are you" << endl;

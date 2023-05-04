@@ -6,5 +6,5 @@ struct Database {
 };
 
 struct Test {
-
+	char* test;
 };

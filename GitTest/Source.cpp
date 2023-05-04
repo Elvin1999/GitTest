@@ -1,10 +1,12 @@
 #include<iostream>
 using namespace std;
 
-struct Student {
-	int age;
-	int score;
+struct Teacher {
+	char* name;
+	int salary;
 };
+
+
 
 void main() {
 
